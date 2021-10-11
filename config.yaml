@@ -1,1 +1,2 @@
-registry: 'https://fudzya-xps:443'
+registry:
+  url: "https://fudzya-xps:443"
